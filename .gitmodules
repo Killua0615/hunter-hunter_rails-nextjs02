@@ -1,0 +1,9 @@
+[submodule "my-app-nextjs"]
+    path = my-app-nextjs
+    url = <repository_url_for_my-app-nextjs>
+[submodule "my-api-rails"]
+    path = my-api-rails
+    url = <repository_url_for_my-api-rails>
+[submodule "my_api-rails"]
+	path = my_api-rails
+	url = https://github.com/Killua0615/my_api-rails.git
